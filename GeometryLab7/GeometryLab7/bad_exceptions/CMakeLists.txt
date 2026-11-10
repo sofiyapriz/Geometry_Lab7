@@ -1,0 +1,1 @@
+add_executable(bad_exceptions bad_exceptions.cpp)

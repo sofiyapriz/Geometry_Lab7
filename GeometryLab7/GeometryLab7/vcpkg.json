@@ -1,0 +1,6 @@
+{
+    "name": "geometry-lab7",
+    "version": "1.0.0",
+    "builtin-baseline": "6f6324d69cc4d5229804bee9f72737fe2ef08087",
+    "dependencies": [ "gtest" ]
+}
